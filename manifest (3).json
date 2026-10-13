@@ -1,0 +1,14 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "LoLBuilder",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "LoLB",
+  "start_url": "/https://shakogzzz-collab.github.io/DEFINITIVE/",
+  "theme_color": "#010a13",
+  "id": "lol-builder",
+  "description": "Página para crear builds",
+  "lang": "es"
+}
