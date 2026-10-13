@@ -3,11 +3,26 @@
   "dir": "ltr",
   "display": "standalone",
   "name": "LoLBuilder",
+  "short_name": "LoLBuilder",
   "orientation": "any",
   "scope": "/DEFINITIVE/",
   "start_url": "/DEFINITIVE/",
   "theme_color": "#010a13",
   "id": "lol-builder",
   "description": "Página para crear builds",
-  "lang": "es"
+  "lang": "es",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://via.placeholder.com/512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
 }
